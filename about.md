@@ -2,6 +2,7 @@
 layout: page
 title: About
 sidebar_link: true
+order: 2
 ---
 
 <p class="message">
