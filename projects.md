@@ -2,6 +2,7 @@
 layout: page
 title: Projects 
 sidebar_link: true
+order: 4
 ---
 
 Projects list page
