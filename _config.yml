@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Xun Zhong
-tagline:          'My resume'
+tagline:          'Portfolio'
 description:      'An upcoming <br><a>software engineer</a></br>'
 url:              https://peggiezx.github.io/
 baseurl:          '/'
