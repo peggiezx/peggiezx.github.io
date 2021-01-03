@@ -2,7 +2,7 @@
 layout: page
 title: Resume
 sidebar_link: true
-order: 5
+sidebar_sort_order: 5
 ---
 
 This is my Resume

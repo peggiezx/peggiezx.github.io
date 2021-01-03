@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Home
-order: 1
+sidebar_sort_order: 1
 ---
 
 hello world!
