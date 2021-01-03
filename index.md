@@ -1,6 +1,6 @@
 ---
 layout: index
-title: About me
+title: Home
 order: 1
 ---
 
