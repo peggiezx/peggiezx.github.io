@@ -21,8 +21,8 @@ Standing at the intersection of engineering, business, and music, I am a foundin
 * Responsible for code, testing and deployment over several launches 
 
 <p float="left">
-  <img align ="center" src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="400" />
-  <img align ="center" src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="400" /> 
+  <img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="400" />
+  <img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="400" /> 
 </p>
 
 #### <a href="nyochina.com"> Language Acquisition Curriculum </a>
