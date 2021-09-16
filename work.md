@@ -21,9 +21,12 @@ Standing at the intersection of engineering, business, and music, I am a foundin
 * Responsible for code, testing and deployment over several launches 
 
 <p float="left">
-  <img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="400" />
-  <img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="400" /> 
+  <img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="200" />
+  <img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg" width="200" /> 
 </p>
+
+![alt-text-1](https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg "title-1") ![alt-text-2](https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg "title-2")
+
 
 #### <a href="nyochina.com"> Language Acquisition Curriculum </a>
 * Built and maintained a static website for NYO-China using ReactJs and Netlify
