@@ -15,3 +15,7 @@ Standing at the intersection of engineering, business, and music, I am a foundin
 * Responsible for code, testing and deployment over several launches 
 
 ![Homepage](https://res.cloudinary.com/peggiexplode/image/upload/v1631824940/YelpCamp/Screen_Shot_2021-09-16_at_4.41.40_PM_wo4dwg.png)
+
+### <a href="nyochina.com"> International Concert Tours </a>
+
+### <a href="nyochina.com"> Language Curriculum </a>
