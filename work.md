@@ -13,6 +13,7 @@ Standing at the intersection of engineering, business, and music, I am a foundin
 * Built and maintained a static website for NYO-China using ReactJs and Netlify
 * Implemented responsive designs (mobile/tablet/desktop)
 * Responsible for code, testing and deployment over several launches 
+
 <img align="center" src="https://res.cloudinary.com/peggiexplode/image/upload/v1631824940/YelpCamp/Screen_Shot_2021-09-16_at_4.41.40_PM_wo4dwg.png" width="900" />
 
 #### <a href="https://www.youtube.com/watch?v=iWl9Bcm_zjk&t=7562s"> International Concert Tours </a>
