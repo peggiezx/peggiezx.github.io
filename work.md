@@ -20,9 +20,9 @@ Standing at the intersection of engineering, business, and music, I am a foundin
 * Implemented responsive designs (mobile/tablet/desktop)
 * Responsible for code, testing and deployment over several launches 
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+<img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631822446/YelpCamp/Screen_Shot_2021-09-16_at_4.00.36_PM_si9ni9.png" width="425"/> <img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631822446/YelpCamp/Screen_Shot_2021-09-16_at_4.00.36_PM_si9ni9.png" width="425"/> 
+
 
 
 #### <a href="nyochina.com"> Language Acquisition Curriculum </a>
