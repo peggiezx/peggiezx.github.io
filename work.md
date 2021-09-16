@@ -6,3 +6,12 @@ sidebar_sort_order: 3
 ---
 
 Standing at the intersection of engineering, business, and music, I am a founding member of National Youth Orchestra of China, a project that promotes orchestral playing and empowers hundreds of young musicians.
+
+## National Youth Orchestra of China
+
+### <a href="nyochina.com"> Official Website </a>
+* Built and maintained a static website for NYO-China using ReactJs and Netlify
+* Implemented responsive designs (mobile/tablet/desktop)
+* Responsible for code, testing and deployment over several launches 
+
+![Homepage](https://res.cloudinary.com/peggiexplode/image/upload/v1631824940/YelpCamp/Screen_Shot_2021-09-16_at_4.41.40_PM_wo4dwg.png)
