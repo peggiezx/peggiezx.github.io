@@ -4,6 +4,6 @@ title: Home
 sidebar_sort_order: 1
 ---
 
-hello world!
+Hello world!
 
-it is my homepage.
+My name is Xun, also go by Peggie. 
