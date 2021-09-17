@@ -19,4 +19,6 @@ YelpCamp is a website where camp lovers can view, create, edit and comment on th
 
 Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. BMI Calculator is a MVC architecture-based mobile application implemented in Swift. The app uses web API calls to calculate the BMI scores and display the information to user after processing the JSON results. 
 
+<a href="https://github.com/peggiezx/BMI_Calculator">Live Demo</a>
+
 ![Alt Text](https://j.gifs.com/Og8GOB.gif)
