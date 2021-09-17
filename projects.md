@@ -23,3 +23,8 @@ Body mass index (BMI) is a measure of body fat based on height and weight that a
 
 ![Alt Text](https://j.gifs.com/Og8GOB.gif)
 
+##  Sport Concussion Assessment Tool (SCAT) 
+Sport concussion Assessment Tool (SCAT) is an application that help athletes and medical staff to diagnose symptoms of concussion. The project is implemented in Java and the class diagram is developed using Astah.
+
+<a href="https://github.com/peggiezx/Sport_Concussion_Assessment_System">View Source Code</a>
+![Screenshot](https://res.cloudinary.com/peggiexplode/image/upload/v1631907525/YelpCamp/Screen_Shot_2021-09-17_at_3.35.47_PM_t1ircm.png)
