@@ -15,6 +15,6 @@ YelpCamp is a website where camp lovers can view, create, edit and comment on th
 
 <a href="https://xun-zhong-yelpcamp.herokuapp.com/"><img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631739772/YelpCamp/github_img_ukprqp.png"></a>
 
-## Projects 2
+## BMI Calculator
 
 I'm excited by problems that require creativity and innovative thinking -- especially those that involve science and engineering. On the other hand, I've come to value any opportunity to work with smart, passionate people on projects that generate meaningful value in the world. You can learn about some of these below.
