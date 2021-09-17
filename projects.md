@@ -5,6 +5,8 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
+I love building projects because it is a great way to hone my coding skills and boost my confidence as a developer. 
+
 All projects listed are available on my <a href="https://github.com/peggiezx">Github</a>
 
 ## <a href="https://xun-zhong-yelpcamp.herokuapp.com/">YelpCamp</a>
