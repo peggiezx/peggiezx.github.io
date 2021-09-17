@@ -15,6 +15,8 @@ YelpCamp is a website where camp lovers can view, create, edit and comment on th
 
 <a href="https://xun-zhong-yelpcamp.herokuapp.com/"><img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631739772/YelpCamp/github_img_ukprqp.png"></a>
 
-## BMI Calculator
+## <a href="https://github.com/peggiezx/BMI_Calculator">BMI Calculator</a>
 
-I'm excited by problems that require creativity and innovative thinking -- especially those that involve science and engineering. On the other hand, I've come to value any opportunity to work with smart, passionate people on projects that generate meaningful value in the world. You can learn about some of these below.
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. BMI Calculator is a MVC architecture-based mobile application implemented in Swift. The app uses web API calls to calculate the BMI scores and display the information to user after processing the JSON results. 
+
+![Alt Text](https://j.gifs.com/Og8GOB.gif)
