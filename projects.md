@@ -21,6 +21,7 @@ _Technologies: C#, JSON, ASP.net, Azure, Swift, C#_
 
 Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. BMI Calculator is a MVC architecture-based mobile application implemented in Swift. The app uses web API calls to calculate the BMI scores and display the information to user after processing the JSON results. 
 An adult’s body mass index (BMI) measures body fat based on height and weight. The BMI Calculator is a mobile application that calculates a user’s BMI for a given height and weight. The app is implemented in Swift and uses a C# backend server.
+
 <a href="https://github.com/peggiezx/BMI_Calculator">Live Demo</a>
 
 ![Alt Text](https://j.gifs.com/Og8GOB.gif)
