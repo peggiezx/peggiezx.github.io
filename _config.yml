@@ -2,19 +2,6 @@
 markdown:         kramdown
 highlighter:      rouge
 
-- type: picture-glance
-  entity: person.david
-  entities:
-    - entity: device_tracker.smartphone_david_wifi
-      icon: mdi:cellphone-wireless
-    - entity: device_tracker.smartphone_david_bt
-      icon: mdi:bluetooth
-  state_image:
-    "home": /local/images/David.JPG
-    "not_home": /local/images/David_bw.JPG
-  title: "David"
-avatar:           "/assest/css/pic.jpg"
-
 # Setup
 title:            Xun Zhong
 tagline:          'Homepage'
