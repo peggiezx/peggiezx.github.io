@@ -26,7 +26,7 @@ An adult’s body mass index (BMI) measures body fat based on height and weight.
 
 ![Alt Text](https://j.gifs.com/Og8GOB.gif)
 
-##  <a href="https://github.com/peggiezx/Sport_Concussion_Assessment_System">Sport Concussion Assessment Tool (SCAT) </a>
+##  <a href="https://github.com/peggiezx/Sport_Concussion_Assessment_System">Sport Concussion Assessment System</a>
 _Technologies: Java, Astah_
 
 Sport concussion Assessment System is an application that help athletes and medical staff diagnose symptoms of concussion. The project is implemented in Java and the class diagram is developed using Astah.
