@@ -3,6 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
+avatar:           https://res.cloudinary.com/peggiexplode/image/upload/v1631814987/YelpCamp/3000_agbszs.jpg
 title:            Xun Zhong
 tagline:          'Homepage'
 description:      'Software Engineering | Linguistics | Business | Music | Communication'
