@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 4
 ---
 
-I love building projects because it is a great way to hone my coding skills and boost my confidence as a developer. I am always excited to take on more complex projects with people sharing the same passion. You can find my current projects below and also available on my <a href="https://github.com/peggiezx">Github</a>.
+I love building projects because they are a great way to hone my coding skills and boost my confidence. You can find some of these projects below and also on my <a href="https://github.com/peggiezx">Github</a>.
 
 ## <a href="https://xun-zhong-yelpcamp.herokuapp.com/">YelpCamp</a>
 
