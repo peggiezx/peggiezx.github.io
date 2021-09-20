@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Xun Zhong
 tagline:          'Homepage'
-description:      'Software Engineering | Linguistics | Business | Music | Communication'
+description:      'Software Engineer'
 url:              https://peggiezx.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
