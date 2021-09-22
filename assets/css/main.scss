@@ -22,23 +22,4 @@ $sidebar-sticky: false;
   }
 }
 
-// Mobile/normal
-.about-intro {
-    display: flex;
-    flex-direction: column;
 
-    .message-holder {
-        .message {
-            margin-right: 1em;
-        }
-    }
-
-    .image-holder {
-        img {
-            width: 100%;
-        }
-    }
-}
-
-
-}
