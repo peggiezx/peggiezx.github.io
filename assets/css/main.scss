@@ -8,20 +8,43 @@ $link-color: #268bd2;
 $sidebar-sticky: false;
 @import "hydeout";
 
-.sidebar {
-  text-align: center;
-  padding: 1rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
-}
-@media (min-width: 48em) and (min-height: 42em) {
-  .sidebar {
-    padding: 2rem 1rem;
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 18rem;
-    text-align: left;
+@media (min-width: 1000px) {
+  .about-intro {
+    flex-direction: row !important;
+
+    .message-holder {
+        flex: 1 1 60%;
+    }
+
+    .image-holder {
+        flex: 1 1 30%;
+    }
   }
+}
+
+// Mobile/normal
+.about-intro {
+    display: flex;
+    flex-direction: column;
+
+    .message-holder {
+        .message {
+            margin-right: 1em;
+        }
+    }
+
+    .image-holder {
+        img {
+            width: 100%;
+        }
+    }
+}
+
+.lead {
+    transform: rotate(-3deg);
+    mark {
+        box-decoration-break: clone;
+        padding: 0 4px;
+        background-color: #f39721;
+    }
 }
