@@ -8,11 +8,20 @@ $link-color: #268bd2;
 $sidebar-sticky: false;
 @import "hydeout";
 
-@media (min-width: 48em) {
-    .sidebar-sticky {
-        top:  1rem;
-        overflow-y: scroll;
-        overflow-x: hidden;
-        height: 100%;
-    }
+.sidebar {
+  text-align: center;
+  padding: 1rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #202020;
+}
+@media (min-width: 48em) and (min-height: 42em) {
+  .sidebar {
+    padding: 2rem 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+    text-align: left;
+  }
 }
