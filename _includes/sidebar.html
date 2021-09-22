@@ -2,6 +2,15 @@
 <div id="sidebar">
   <header>
     <img src="/avatar.png" alt="wow" class="inline"/>
+    
+    <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <img src='{{"/avatar.png" | absolute_url}}'> 
+      <p class="lead">{{ site.description }}</p>
+   
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
