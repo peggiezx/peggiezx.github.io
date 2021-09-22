@@ -7,3 +7,12 @@ $sidebar-bg-color: #202020;
 $link-color: #268bd2;
 $sidebar-sticky: false;
 @import "hydeout";
+
+@media (min-width: 48em) {
+    .sidebar-sticky {
+        top:  1rem;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        height: 100%;
+    }
+}
