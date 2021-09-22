@@ -1,6 +1,5 @@
 
 <div id="sidebar">
-  <div class ="container"> 
     <img src="/avatar.png" alt="wow" class="inline"/>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
@@ -11,7 +10,6 @@
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
-  </div>
   {% include sidebar-nav-links.html %}
 
   {% if site.version %}
