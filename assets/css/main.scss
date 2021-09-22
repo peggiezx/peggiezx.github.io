@@ -8,18 +8,3 @@ $link-color: #268bd2;
 $sidebar-sticky: false;
 @import "hydeout";
 
-@media (min-width: 1000px) {
-  .about-intro {
-    flex-direction: row !important;
-
-    .message-holder {
-        flex: 1 1 60%;
-    }
-
-    .image-holder {
-        flex: 1 1 30%;
-    }
-  }
-}
-
-
