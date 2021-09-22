@@ -25,6 +25,10 @@ $sidebar-sticky: false;
 #sidebar .avatar-subpage {
     display: none;
 }
+#sidebar #links {
+    position: absolute;
+    bottom: 0;
+}
 
 @media (min-width: $large-breakpoint) {
     #sidebar #avatar {
