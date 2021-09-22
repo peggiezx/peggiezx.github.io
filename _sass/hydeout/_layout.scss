@@ -44,8 +44,7 @@ body {
     margin-top: 0;
   }
 
-  .site-title .back-arrow { margin-right: 1rem; }
-  
+  .site-title .back-arrow { margin-right: 0.5rem; }
 }
 
 .content {
@@ -53,7 +52,6 @@ body {
   color: $body-color;
   padding: $section-spacing;
 }
-
 
 // Container is flexbox as well -- we want content div to stretch and fill
 .container {
@@ -112,7 +110,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 2.25rem;
+    font-size: 3.25rem;
   }
 
   // Show secondary nav content + lead
@@ -135,15 +133,19 @@ body {
 /* -----------------------------------------------------------
   Tablet / Desktop view
 ----------------------------------------------------------- */
-@media (min-width: 48em) {
-    .sidebar-sticky {
-        top:  1rem;
-        overflow-y: scroll;
-        overflow-x: hidden;
-        height: 100%;
-    }
-}
 
+@media (min-width: $large-breakpoint) {
+  body {
+    flex-direction: row;
+    min-height: 100vh;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: auto;
+
+    > * {
+      -webkit-overflow-scrolling: touch;
+      overflow-y: auto;
+    }
+  }
 
   /* Undo mobile CSS */
 
