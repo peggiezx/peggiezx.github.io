@@ -14,7 +14,7 @@ Standing at the intersection of engineering, business, and music, I am a foundin
 * Implemented responsive designs (mobile/tablet/desktop)
 * Responsible for code, testing and deployment over several launches 
 
-<img align="center" src="https://res.cloudinary.com/peggiexplode/image/upload/v1631824940/YelpCamp/Screen_Shot_2021-09-16_at_4.41.40_PM_wo4dwg.png" width="900" />
+<a href="https://practical-banach-2e72a7.netlify.app/2020-sinfonietta-series/"><img align="center" src="https://res.cloudinary.com/peggiexplode/image/upload/v1631824940/YelpCamp/Screen_Shot_2021-09-16_at_4.41.40_PM_wo4dwg.png" width="900" /> </a>
 
 #### <a href="https://www.youtube.com/watch?v=iWl9Bcm_zjk&t=7563s"> International Concert Tours </a>
 * Designed and implemented three successful residencies and concert tours throughout the United States, China and Europe, featuring Ludovic Morlot, Yuja Wang and Garrick Ohlsson as artists
