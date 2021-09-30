@@ -9,7 +9,7 @@ Standing at the intersection of engineering, business, and music, I am a foundin
 
 ### National Youth Orchestra of China
 
-#### <a href="nyochina.com"> Official Website </a>
+#### <a href="https://practical-banach-2e72a7.netlify.app/2020-sinfonietta-series/"> Official Website </a>
 * Built and maintained a static NYO-China's website using ReactJs and Netlify
 * Implemented responsive designs (mobile/tablet/desktop)
 * Responsible for code, testing and deployment over several launches 
