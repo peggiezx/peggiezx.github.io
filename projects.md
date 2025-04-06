@@ -16,21 +16,11 @@ YelpCamp is a website where camp lovers can view, create, edit and comment on th
 
 <a href="https://xun-zhong-yelpcamp.herokuapp.com/"><img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631739772/YelpCamp/github_img_ukprqp.png"></a>
 
-## <a href="https://github.com/peggiezx/BMI_Calculator">BMI Calculator</a>
-_Technologies: C#, JSON, ASP.net, Azure, Swift, C#_
+## <a href="https://peggiezx.github.io/my-web-spreadsheet/">Web Spreadsheet</a>
+_Technologies: HTML, CSS, AngularJS_
 
-Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women. BMI Calculator is a MVC architecture-based mobile application implemented in Swift. The app uses web API calls to calculate the BMI scores and display the information to user after processing the JSON results. 
-An adult’s body mass index (BMI) measures body fat based on height and weight. The BMI Calculator is a mobile application that calculates a user’s BMI for a given height and weight. The app is implemented in Swift and uses a C# backend server.
+Web Spreadsheet is a fully interactive spreadsheet app that supports cell editing, basic formulas like `=A1+B2`, keyboard navigation (arrows and Enter), and reset functionality. It’s built with AngularJS and styled to mimic a simple Excel-like layout.
 
-<a href="https://github.com/peggiezx/BMI_Calculator">Live Demo</a>
+<a href="https://peggiezx.github.io/my-web-spreadsheet/">Live Demo</a> | <a href="https://github.com/peggiezx/my-web-spreadsheet">View Source Code</a>
 
-![Alt Text](https://j.gifs.com/Og8GOB.gif)
-
-##  <a href="https://github.com/peggiezx/Sport_Concussion_Assessment_System">Sport Concussion Assessment System</a>
-_Technologies: Java, Astah_
-
-Sport concussion Assessment System is an application that help athletes and medical staff diagnose symptoms of concussion. The project is implemented in Java and the class diagram is developed using Astah.
-
-<a href="https://github.com/peggiezx/Sport_Concussion_Assessment_System">View Source Code</a>
-
-![Screenshot](https://res.cloudinary.com/peggiexplode/image/upload/v1631907525/YelpCamp/Screen_Shot_2021-09-17_at_3.35.47_PM_t1ircm.png)
+<img src="https://raw.githubusercontent.com/peggiezx/my-web-spreadsheet/main/assets/my-web-spreadsheet.png" alt="Spreadsheet screenshot">
