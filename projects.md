@@ -14,7 +14,7 @@ YelpCamp is a website where camp lovers can view, create, edit and comment on th
 
 <a href="https://yelpcamp-peggiezx.onrender.com/">Try it out</a>
 
-<a href="https://yelpcamp-peggiezx.onrender.com/"><img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631739772/YelpCamp/github_img_ukprqp.png"></a>
+<a href="https://yelpcamp-peggiezx.onrender.com/"><img src="https://res.cloudinary.com/peggiexplode/image/upload/v1757003660/yelpcamp-home_vrdgvt.png"></a>
 
 ## <a href="https://peggiezx.github.io/my-web-spreadsheet/">Web Spreadsheet</a>
 _Technologies: HTML, CSS, AngularJS_
