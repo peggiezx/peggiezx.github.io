@@ -12,9 +12,9 @@ _Technologies: JavaScript, HTML/CSS, NodeJS, Bootstrap, MongoDB_
 
 YelpCamp is a website where camp lovers can view, create, edit and comment on the campgrounds they are interested in. It is built on Node.js and deployed on Heroku.
 
-<a href="https://xun-zhong-yelpcamp.herokuapp.com/">Try it out</a>
+<a href="https://yelpcamp-peggiezx.onrender.com/">Try it out</a>
 
-<a href="https://xun-zhong-yelpcamp.herokuapp.com/"><img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631739772/YelpCamp/github_img_ukprqp.png"></a>
+<a href="https://yelpcamp-peggiezx.onrender.com/"><img src="https://res.cloudinary.com/peggiexplode/image/upload/v1631739772/YelpCamp/github_img_ukprqp.png"></a>
 
 ## <a href="https://peggiezx.github.io/my-web-spreadsheet/">Web Spreadsheet</a>
 _Technologies: HTML, CSS, AngularJS_
